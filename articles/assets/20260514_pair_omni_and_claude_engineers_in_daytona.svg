@@ -1,0 +1,24 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Paired AI engineering workflow in Daytona</title>
+  <desc id="desc">A Daytona workspace flow where Omni Engineer and Claude Engineer inspect the same task, produce candidate patches, and merge into one verified result.</desc>
+  <rect width="1200" height="675" fill="#0B1020"/>
+  <rect x="72" y="72" width="1056" height="531" rx="28" fill="#111827" stroke="#2DD4BF" stroke-width="4"/>
+  <text x="600" y="138" text-anchor="middle" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="44" font-weight="700">Pair AI engineers inside Daytona</text>
+  <text x="600" y="184" text-anchor="middle" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="24">One reproducible workspace, two agents, one verified patch</text>
+  <rect x="124" y="264" width="248" height="154" rx="18" fill="#1E293B" stroke="#60A5FA" stroke-width="3"/>
+  <text x="248" y="322" text-anchor="middle" fill="#DBEAFE" font-family="Arial, sans-serif" font-size="30" font-weight="700">Omni Engineer</text>
+  <text x="248" y="368" text-anchor="middle" fill="#BFDBFE" font-family="Arial, sans-serif" font-size="20">Plan and patch</text>
+  <rect x="476" y="248" width="248" height="186" rx="18" fill="#042F2E" stroke="#2DD4BF" stroke-width="3"/>
+  <text x="600" y="312" text-anchor="middle" fill="#CCFBF1" font-family="Arial, sans-serif" font-size="30" font-weight="700">Daytona</text>
+  <text x="600" y="358" text-anchor="middle" fill="#99F6E4" font-family="Arial, sans-serif" font-size="20">Dev Container</text>
+  <text x="600" y="392" text-anchor="middle" fill="#99F6E4" font-family="Arial, sans-serif" font-size="20">Secrets and tools</text>
+  <rect x="828" y="264" width="248" height="154" rx="18" fill="#2E1065" stroke="#C084FC" stroke-width="3"/>
+  <text x="952" y="322" text-anchor="middle" fill="#F3E8FF" font-family="Arial, sans-serif" font-size="30" font-weight="700">Claude Engineer</text>
+  <text x="952" y="368" text-anchor="middle" fill="#E9D5FF" font-family="Arial, sans-serif" font-size="20">Review and refine</text>
+  <path d="M372 341H456" stroke="#E2E8F0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M444 321L466 341L444 361" stroke="#E2E8F0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M724 341H808" stroke="#E2E8F0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M796 321L818 341L796 361" stroke="#E2E8F0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="360" y="494" width="480" height="60" rx="14" fill="#F8FAFC"/>
+  <text x="600" y="533" text-anchor="middle" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Compare outputs, test, keep the smallest safe change</text>
+</svg>
